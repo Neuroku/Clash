@@ -1,3 +1,11 @@
+# OpenAI
+DOMAIN-KEYWORD, openai, proxy
+DOMAIN-SUFFIX, chatgpt.com, proxy
+
+# Perplexity
+DOMAIN-KEYWORD, pplx, proxy
+DOMAIN-SUFFIX, perplexity.ai
+
 # Facebook include Instgram
 DOMAIN-KEYWORD,facebook,proxy
 DOMAIN-KEYWORD,fbcdn,proxy
